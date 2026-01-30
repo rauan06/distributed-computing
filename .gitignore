@@ -1,0 +1,4 @@
+__MACOSX
+.vscode/*
+venv/*
+env/*
